@@ -1,1 +1,1 @@
-<img src="./README.gif" width="40" height="40" />
+![alt text](https://github.com/noeldamps/noeldamps/README.gif "Logo Title Text 1")
