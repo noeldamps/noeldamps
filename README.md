@@ -1,1 +1,1 @@
-# 👋 Hi, I’m Noel Damps
+<img src="./README.gif" width="40" height="40" />
