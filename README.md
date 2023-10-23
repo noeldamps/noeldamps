@@ -1,1 +1,1 @@
-<img src="README.gif" width="250" height="100"/>
+<img src="README.gif" width="400" height="100"/>
